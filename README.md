@@ -1,5 +1,5 @@
   
-![title](msfconsole.png)
+![title](/srcs/msfconsole.png)
 
 # [1 ~ 2일차] 배우는 것  
 - 리버스쉘  
