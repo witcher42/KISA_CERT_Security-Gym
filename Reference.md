@@ -1,6 +1,7 @@
 # 미래 사이버전 대비 국방 통합 CERT구축 방안  
-김기동 ‖ 아주대학교
+김기동 ‖ 아주대학교  
 http://dcoll.ajou.ac.kr:9080/dcollection/public_resource/pdf/000000001000_20200829193043.pdf  
+  
   
 # PostScript를 이용한 한글 악성코드 분석보고서  
   
