@@ -4,13 +4,10 @@ Advanced Windows Debugging
 */
 
 /*
-오늘 실습 하다가 알게되어서 공유합니다
-dead.exe 실행시 일정 확률로 쓰레드 데드락이 발생해요 
+오늘 실습때 버스탑승하다가 구글링으로 알게된 내용 공유합니다
+dead.exe 실행시 일정 확률로 쓰레드 데드락이 발생해요. 
 x86_64-w64-mingw32-gcc -o dead.exe deadlock.c
 침해사고 고급과정에서 쓰이는 내용은 아닙니다
-실습에 도움이 되는 책은 
-Learning Malware Analysis - Monnappa K. A.
-이거 한글판 보시면 됩니다 여기서 다나와욧!
 */
 
 #include <windows.h>
